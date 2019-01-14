@@ -22,4 +22,4 @@ iOS:
 ![alt text][logo]
 
 
-[logo]: https://woodlandpizza.github.io/ios.png "Expo App on iOS"
+[logo]: https://github.com/WoodlandPizza/WoodlandPizza.github.io/blob/master/ios.png "Expo App on iOS"
